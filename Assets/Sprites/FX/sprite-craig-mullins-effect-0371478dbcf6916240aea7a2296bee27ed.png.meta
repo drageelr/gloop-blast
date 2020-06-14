@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 7c80a9a5406af13429f93d99f5119f32
+timeCreated: 1500723406
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_1
+    21300002: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_4
+    21300004: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_7
+    21300006: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_9
+    21300008: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_12
+    21300010: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_15
+    21300012: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_18
+    21300014: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_21
+    21300016: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_24
+    21300018: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_27
+    21300020: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_30
+    21300022: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_33
+    21300024: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_35
+    21300026: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_38
+    21300028: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_41
+    21300030: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_44
+    21300032: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_47
+    21300034: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_4
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_9
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_12
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_15
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_18
+      rect:
+        serializedVersion: 2
+        x: 5062
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_21
+      rect:
+        serializedVersion: 2
+        x: 5858
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_24
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_27
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_30
+      rect:
+        serializedVersion: 2
+        x: 8256
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_33
+      rect:
+        serializedVersion: 2
+        x: 9055
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_35
+      rect:
+        serializedVersion: 2
+        x: 9854
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_38
+      rect:
+        serializedVersion: 2
+        x: 10656
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_41
+      rect:
+        serializedVersion: 2
+        x: 11454
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_44
+      rect:
+        serializedVersion: 2
+        x: 12256
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_47
+      rect:
+        serializedVersion: 2
+        x: 13058
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-craig-mullins-effect-0371478dbcf6916240aea7a2296bee27ed_50
+      rect:
+        serializedVersion: 2
+        x: 13863
+        y: 0
+        width: 280
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

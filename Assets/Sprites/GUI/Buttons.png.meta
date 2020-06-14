@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: c6bd24d9172c39345a842bdc7e697fdf
+timeCreated: 1470394564
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buttons_0
+    21300002: Buttons_1
+    21300004: Buttons_2
+    21300006: Buttons_3
+    21300008: Buttons_4
+    21300010: Buttons_5
+    21300012: Buttons_6
+    21300014: Buttons_7
+    21300016: Buttons_8
+    21300018: Buttons_9
+    21300020: Buttons_10
+    21300022: Buttons_11
+    21300024: Buttons_12
+    21300026: Buttons_13
+    21300028: Buttons_14
+    21300030: Buttons_15
+    21300032: Buttons_16
+    21300034: Buttons_17
+    21300036: Buttons_18
+    21300038: Buttons_19
+    21300040: Buttons_20
+    21300042: Buttons_21
+    21300044: Buttons_22
+    21300046: Buttons_23
+    21300048: Buttons_24
+    21300050: Buttons_25
+    21300052: Buttons_26
+    21300054: Buttons_27
+    21300056: Buttons_28
+    21300058: Buttons_29
+    21300060: Buttons_30
+    21300062: Buttons_31
+    21300064: Buttons_32
+    21300066: Buttons_33
+    21300068: Buttons_34
+    21300070: Buttons_35
+    21300072: Buttons_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1245
+        width: 823
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -213.38321, y: 21.435364}
+        - {x: -219.38321, y: 15.435364}
+        - {x: -219.38321, y: -13.564636}
+        - {x: -216.38321, y: -20.564636}
+        - {x: 209.61679, y: -20.564636}
+        - {x: 220.61679, y: -12.564636}
+        - {x: 220.61679, y: 16.435364}
+        - {x: 218.61679, y: 21.435364}
+    - name: Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1095
+        width: 1127
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 296.49207, y: 30.503418}
+        - {x: -291.50793, y: 30.503418}
+        - {x: -300.50793, y: 22.503418}
+        - {x: -300.50793, y: -22.496582}
+        - {x: -298.50793, y: -29.496582}
+        - {x: 287.49207, y: -29.496582}
+        - {x: 295.49207, y: -27.496582}
+        - {x: 301.49207, y: -19.496582}
+        - {x: 301.49207, y: 18.503418}
+    - name: Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1071
+        width: 308
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.42743, y: 38.214294}
+        - {x: -82.42743, y: -25.785706}
+        - {x: -35.42743, y: -36.785706}
+        - {x: 69.57257, y: -36.785706}
+        - {x: 82.57257, y: -24.785706}
+        - {x: 82.57257, y: 38.214294}
+    - name: Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 988
+        width: 338
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.27777, y: 17.98529}
+        - {x: -90.27777, y: -14.014709}
+        - {x: -81.27777, y: -17.01471}
+        - {x: 82.72223, y: -17.01471}
+        - {x: 90.72223, y: -13.014709}
+        - {x: 90.72223, y: 9.985291}
+        - {x: 83.72223, y: 17.98529}
+    - name: Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 158
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 45.331085}
+        - {x: -30.5, y: 40.331085}
+        - {x: -42.5, y: 29.331085}
+        - {x: -42.5, y: -29.668915}
+        - {x: -36.5, y: -44.668915}
+        - {x: 22.5, y: -44.668915}
+        - {x: 42.5, y: -28.668915}
+        - {x: 42.5, y: 25.331085}
+        - {x: 17.5, y: 45.331085}
+    - name: Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 740
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.003403, y: 45.331085}
+        - {x: -41.003403, y: 26.331085}
+        - {x: -43.003403, y: 24.331085}
+        - {x: -43.003403, y: -23.668915}
+        - {x: -32.003403, y: -44.668915}
+        - {x: 20.996597, y: -44.668915}
+        - {x: 35.996597, y: -41.668915}
+        - {x: 43.996597, y: -33.668915}
+        - {x: 43.996597, y: 36.331085}
+        - {x: 41.996597, y: 45.331085}
+    - name: Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 740
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.809525, y: 45.331085}
+        - {x: -42.809525, y: 38.331085}
+        - {x: -42.809525, y: -35.668915}
+        - {x: -41.809525, y: -37.668915}
+        - {x: -26.809525, y: -44.668915}
+        - {x: 27.190475, y: -44.668915}
+        - {x: 43.190475, y: -27.668915}
+        - {x: 43.190475, y: 35.331085}
+        - {x: 26.190475, y: 45.331085}
+    - name: Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 740
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.71997, y: 45.331085}
+        - {x: -21.28003, y: 45.331085}
+        - {x: -41.28003, y: 39.331085}
+        - {x: -43.28003, y: 27.331085}
+        - {x: -43.28003, y: -24.668915}
+        - {x: -27.28003, y: -44.668915}
+        - {x: 26.71997, y: -44.668915}
+        - {x: 43.71997, y: -28.668915}
+        - {x: 43.71997, y: 15.331085}
+        - {x: 35.71997, y: 38.331085}
+    - name: Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 740
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.184784, y: 45.331085}
+        - {x: -43.184784, y: 23.331085}
+        - {x: -43.184784, y: -20.668915}
+        - {x: -29.184784, y: -44.668915}
+        - {x: 36.815216, y: -44.668915}
+        - {x: 43.815216, y: -40.668915}
+        - {x: 43.815216, y: 43.331085}
+        - {x: 38.815216, y: 45.331085}
+    - name: Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 744
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.023804, y: 45.462585}
+        - {x: -43.023804, y: 41.462585}
+        - {x: -43.023804, y: -28.537415}
+        - {x: -26.023804, y: -44.537415}
+        - {x: 27.976196, y: -44.537415}
+        - {x: 34.976196, y: -42.537415}
+        - {x: 43.976196, y: -23.537415}
+        - {x: 43.976196, y: 33.462585}
+        - {x: 37.976196, y: 45.462585}
+    - name: Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 5
+        width: 149
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.26306, y: 197.6644}
+        - {x: 28.263062, y: 209.6644}
+        - {x: -20.736938, y: 209.6644}
+        - {x: -39.73694, y: 203.6644}
+        - {x: -39.73694, y: -184.3356}
+        - {x: -26.736938, y: -208.3356}
+        - {x: 21.263062, y: -208.3356}
+        - {x: 38.26306, y: -191.3356}
+        - {x: 40.26306, y: -186.3356}
+        - {x: 40.26306, y: 185.6644}
+    - name: Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 618
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.037415, y: 30.819733}
+        - {x: -30.037415, y: 21.819733}
+        - {x: -30.037415, y: -19.180267}
+        - {x: -23.037415, y: -30.180267}
+        - {x: 26.962585, y: -30.180267}
+        - {x: 30.962585, y: -19.180267}
+        - {x: 30.962585, y: 20.819733}
+        - {x: 18.962585, y: 30.819733}
+    - name: Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 666
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.475037, y: 22.39798}
+        - {x: -25.475037, y: 13.39798}
+        - {x: -25.475037, y: -20.60202}
+        - {x: 25.524963, y: -20.60202}
+        - {x: 25.524963, y: 9.39798}
+        - {x: 18.524963, y: 22.39798}
+    - name: Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 158
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 45.643982}
+        - {x: -42.5, y: 36.643982}
+        - {x: -42.5, y: -29.356018}
+        - {x: -37.5, y: -44.356018}
+        - {x: 21.5, y: -44.356018}
+        - {x: 42.5, y: -32.356018}
+        - {x: 42.5, y: 37.643982}
+        - {x: 23.5, y: 45.643982}
+    - name: Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 491
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.003403, y: 45.643982}
+        - {x: -43.003403, y: 20.643982}
+        - {x: -43.003403, y: -21.356018}
+        - {x: -38.003403, y: -44.356018}
+        - {x: 43.996597, y: -44.356018}
+        - {x: 43.996597, y: 45.643982}
+    - name: Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 491
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.809525, y: 45.643982}
+        - {x: -42.809525, y: 30.643982}
+        - {x: -42.809525, y: -35.356018}
+        - {x: -25.809525, y: -44.356018}
+        - {x: 26.190475, y: -44.356018}
+        - {x: 35.190475, y: -42.356018}
+        - {x: 43.190475, y: -26.356018}
+        - {x: 43.190475, y: 35.643982}
+        - {x: 21.190475, y: 45.643982}
+    - name: Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 491
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.28003, y: 45.643982}
+        - {x: -43.28003, y: 43.643982}
+        - {x: -43.28003, y: -41.356018}
+        - {x: -37.28003, y: -44.356018}
+        - {x: 22.71997, y: -44.356018}
+        - {x: 43.71997, y: -34.356018}
+        - {x: 43.71997, y: 37.643982}
+        - {x: 30.71997, y: 45.643982}
+    - name: Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 491
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.184784, y: 45.643982}
+        - {x: -43.184784, y: 28.643982}
+        - {x: -43.184784, y: -24.356018}
+        - {x: -26.184784, y: -44.356018}
+        - {x: 26.815216, y: -44.356018}
+        - {x: 43.815216, y: -33.356018}
+        - {x: 43.815216, y: 36.643982}
+        - {x: 26.815216, y: 45.643982}
+    - name: Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 525
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.274353, y: 22.761902}
+        - {x: -24.274353, y: 9.761902}
+        - {x: -24.274353, y: -15.238098}
+        - {x: -8.274353, y: -21.238098}
+        - {x: 25.725647, y: -21.238098}
+        - {x: 25.725647, y: 17.761902}
+        - {x: 20.725647, y: 22.761902}
+    - name: Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 519
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.639465, y: 25.064636}
+        - {x: -23.639465, y: 20.064636}
+        - {x: -26.639465, y: 12.064636}
+        - {x: -26.639465, y: -22.935364}
+        - {x: -24.639465, y: -23.935364}
+        - {x: 11.360535, y: -23.935364}
+        - {x: 27.360535, y: -8.935364}
+        - {x: 27.360535, y: 9.064636}
+        - {x: 13.360535, y: 25.064636}
+    - name: Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 10
+        width: 149
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.714294, y: 175.3288}
+        - {x: -39.714294, y: 155.3288}
+        - {x: -39.714294, y: -150.6712}
+        - {x: -35.714294, y: -160.6712}
+        - {x: -22.714294, y: -174.6712}
+        - {x: 24.285706, y: -174.6712}
+        - {x: 29.285706, y: -173.6712}
+        - {x: 40.285706, y: -159.6712}
+        - {x: 40.285706, y: 164.3288}
+        - {x: 30.285706, y: 175.3288}
+    - name: Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 158
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 45.48979}
+        - {x: -41.5, y: 31.489792}
+        - {x: -42.5, y: 25.489792}
+        - {x: -42.5, y: -30.510208}
+        - {x: -34.5, y: -43.51021}
+        - {x: -30.5, y: -44.51021}
+        - {x: 34.5, y: -44.51021}
+        - {x: 42.5, y: -31.510208}
+        - {x: 42.5, y: 38.48979}
+        - {x: 37.5, y: 45.48979}
+    - name: Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 243
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.003403, y: 45.48979}
+        - {x: -43.003403, y: 40.48979}
+        - {x: -43.003403, y: -33.51021}
+        - {x: -30.003403, y: -44.51021}
+        - {x: 43.996597, y: -44.51021}
+        - {x: 43.996597, y: 30.489792}
+        - {x: 28.996597, y: 45.48979}
+    - name: Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 243
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.809525, y: 45.48979}
+        - {x: -42.809525, y: 36.48979}
+        - {x: -42.809525, y: -44.51021}
+        - {x: 34.190475, y: -44.51021}
+        - {x: 43.190475, y: -40.51021}
+        - {x: 43.190475, y: 34.48979}
+        - {x: 19.190475, y: 45.48979}
+    - name: Buttons_24
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 243
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.28003, y: 45.48979}
+        - {x: -42.28003, y: 32.48979}
+        - {x: -43.28003, y: 26.489792}
+        - {x: -43.28003, y: -28.510208}
+        - {x: -31.28003, y: -44.51021}
+        - {x: 33.71997, y: -44.51021}
+        - {x: 43.71997, y: -27.510208}
+        - {x: 43.71997, y: 28.489792}
+        - {x: 27.71997, y: 45.48979}
+    - name: Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 243
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.184784, y: 45.48979}
+        - {x: -43.184784, y: 37.48979}
+        - {x: -43.184784, y: -39.51021}
+        - {x: -35.184784, y: -44.51021}
+        - {x: 28.815216, y: -44.51021}
+        - {x: 43.815216, y: -26.510208}
+        - {x: 43.815216, y: 21.489792}
+        - {x: 28.815216, y: 45.48979}
+    - name: Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 369
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.890015, y: 26.63266}
+        - {x: -7.1099854, y: 26.63266}
+        - {x: -13.109985, y: 23.63266}
+        - {x: -21.109985, y: -1.3673401}
+        - {x: -21.109985, y: -20.36734}
+        - {x: -17.109985, y: -25.36734}
+        - {x: 5.8900146, y: -25.36734}
+        - {x: 21.890015, y: -5.36734}
+        - {x: 21.890015, y: 22.63266}
+        - {x: 20.890015, y: 24.63266}
+    - name: Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 369
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.590698, y: -8.36734}
+        - {x: 10.590698, y: -7.36734}
+        - {x: 20.590698, y: -6.36734}
+        - {x: 24.590698, y: -0.3673401}
+        - {x: 24.590698, y: 23.63266}
+        - {x: 22.590698, y: 24.63266}
+        - {x: -24.409302, y: 24.63266}
+        - {x: -24.409302, y: -12.36734}
+        - {x: -21.409302, y: -22.36734}
+        - {x: -18.409302, y: -23.36734}
+        - {x: 15.590698, y: -23.36734}
+        - {x: 18.590698, y: -14.36734}
+        - {x: 12.590698, y: -9.36734}
+        - {x: 8.590698, y: -7.36734}
+    - name: Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 215
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 217
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Buttons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 158
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 45.53288}
+        - {x: -24.5, y: 45.53288}
+        - {x: -42.5, y: 26.532879}
+        - {x: -42.5, y: -42.46712}
+        - {x: -34.5, y: -44.46712}
+        - {x: 34.5, y: -44.46712}
+        - {x: 42.5, y: -35.46712}
+        - {x: 42.5, y: 30.532879}
+        - {x: 23.5, y: 44.53288}
+    - name: Buttons_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.003403, y: 45.53288}
+        - {x: -43.003403, y: 42.53288}
+        - {x: -43.003403, y: -39.46712}
+        - {x: -42.003403, y: -44.46712}
+        - {x: 21.996597, y: -44.46712}
+        - {x: 43.996597, y: -34.46712}
+        - {x: 43.996597, y: 35.53288}
+        - {x: 25.996597, y: 45.53288}
+    - name: Buttons_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.091843, y: 45.53288}
+        - {x: -22.908157, y: 45.53288}
+        - {x: -42.908157, y: 31.532879}
+        - {x: -42.908157, y: -37.46712}
+        - {x: -30.908157, y: -44.46712}
+        - {x: 22.091843, y: -44.46712}
+        - {x: 44.091843, y: -35.46712}
+        - {x: 44.091843, y: 31.532879}
+    - name: Buttons_33
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.28003, y: 45.53288}
+        - {x: -43.28003, y: 42.53288}
+        - {x: -43.28003, y: -44.46712}
+        - {x: 43.71997, y: -44.46712}
+        - {x: 43.71997, y: 42.53288}
+        - {x: 34.71997, y: 45.53288}
+    - name: Buttons_34
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.815216, y: 45.53288}
+        - {x: -19.184784, y: 45.53288}
+        - {x: -29.184784, y: 42.53288}
+        - {x: -43.184784, y: 21.532879}
+        - {x: -43.184784, y: -17.467121}
+        - {x: -30.184784, y: -44.46712}
+        - {x: 23.815216, y: -44.46712}
+        - {x: 43.815216, y: -36.46712}
+        - {x: 43.815216, y: 17.532879}
+        - {x: 41.815216, y: 27.532879}
+    - name: Buttons_35
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.023804, y: 45.53288}
+        - {x: -43.023804, y: 19.532879}
+        - {x: -43.023804, y: -24.467121}
+        - {x: -41.023804, y: -33.46712}
+        - {x: -31.023804, y: -44.46712}
+        - {x: 26.976196, y: -44.46712}
+        - {x: 43.976196, y: -34.46712}
+        - {x: 43.976196, y: 24.532879}
+        - {x: 17.976196, y: 45.53288}
+    - name: Buttons_36
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.257324, y: 44.5}
+        - {x: -42.257324, y: 31.5}
+        - {x: -42.257324, y: -35.5}
+        - {x: -40.257324, y: -44.5}
+        - {x: 31.742676, y: -44.5}
+        - {x: 42.742676, y: -31.5}
+        - {x: 42.742676, y: 19.5}
+        - {x: 30.742676, y: 44.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

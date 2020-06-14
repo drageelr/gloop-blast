@@ -1,0 +1,21 @@
+[0619/233242.789:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0630/164945.737:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0630/164945.741:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0630/164945.741:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0630/164945.741:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0630/165139.954:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0630/165139.954:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0630/165139.954:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0630/165139.954:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0712/195158.177:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0712/195158.261:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0712/195158.261:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0712/195158.261:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0712/200635.091:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0712/200635.092:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0712/200635.092:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0712/200635.092:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0721/223950.232:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0721/223950.256:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0721/223950.256:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0721/223950.256:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en

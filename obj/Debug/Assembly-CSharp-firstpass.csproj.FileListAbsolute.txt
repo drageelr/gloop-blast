@@ -1,0 +1,64 @@
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\nunit.framework.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEditor.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Mono.Cecil.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Unity.DataContract.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEditor.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\nunit.framework.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Stuff\SludgeV0.26 - HN\Sludge\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Stuff\SludgeV0.26 - HN\Sludge\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Stuff\SludgeV0.26 - HN\Sludge\obj\Debug\Assembly-CSharp-firstpass.pdb
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\nunit.framework.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEditor.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.UI.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.VR.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Mono.Cecil.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Unity.DataContract.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Unity.CecilTools.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEditor.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.UI.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\nunit.framework.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\Temp\bin\Debug\UnityEngine.VR.xml
+F:\SludgeV0.39 Fixed - HN\Sludge\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\SludgeV0.39 Fixed - HN\Sludge\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\SludgeV0.39 Fixed - HN\Sludge\obj\Debug\Assembly-CSharp-firstpass.pdb

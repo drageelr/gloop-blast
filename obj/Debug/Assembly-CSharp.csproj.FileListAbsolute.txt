@@ -1,0 +1,23 @@
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEditor.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEngine.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Mono.Cecil.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Unity.DataContract.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEngine.xml
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEditor.xml
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEngine.UI.xml
+D:\GROUP_Project\SludgeV0.17\Sludge\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\GROUP_Project\SludgeV0.17\Sludge\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\GROUP_Project\SludgeV0.17\Sludge\obj\Debug\Assembly-CSharp.dll
+D:\GROUP_Project\SludgeV0.17\Sludge\obj\Debug\Assembly-CSharp.pdb
+D:\Stuff\SludgeV0.26 - HN\Sludge\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Stuff\SludgeV0.26 - HN\Sludge\obj\Debug\Assembly-CSharp.dll

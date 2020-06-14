@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 8bf1c0fd0b86150428d553601f3817d4
+timeCreated: 1470399855
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Prompts_0
+    21300002: Prompts_1
+    21300004: Prompts_2
+    21300006: Prompts_3
+    21300008: Prompts_4
+    21300010: Prompts_5
+    21300012: Prompts_6
+    21300014: Prompts_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Prompts_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 657
+        width: 826
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.42001, y: -128.02002}
+        - {x: 92.57999, y: -128.02002}
+        - {x: 93.57999, y: -129.02002}
+        - {x: 118.57999, y: -130.02002}
+        - {x: 156.57999, y: -130.02002}
+        - {x: 157.57999, y: -131.02002}
+        - {x: 215.57999, y: -131.02002}
+        - {x: 231.57999, y: -129.02002}
+        - {x: 243.57999, y: -122.02002}
+        - {x: 252.57999, y: -114.02002}
+        - {x: 259.58, y: -99.02002}
+        - {x: 260.58, y: -87.02002}
+        - {x: 261.58, y: -66.02002}
+        - {x: 262.58, y: -50.02002}
+        - {x: 263.58, y: -21.02002}
+        - {x: 264.58, y: 14.97998}
+        - {x: 264.58, y: 104.97998}
+        - {x: 259.58, y: 114.97998}
+        - {x: 246.57999, y: 125.97998}
+        - {x: 234.57999, y: 129.97998}
+        - {x: 215.57999, y: 130.97998}
+        - {x: 190.57999, y: 131.97998}
+        - {x: -219.42001, y: 131.97998}
+        - {x: -227.42001, y: 130.97998}
+        - {x: -234.42001, y: 127.97998}
+        - {x: -245.42001, y: 120.97998}
+        - {x: -260.42, y: 103.97998}
+        - {x: -264.42, y: 90.97998}
+        - {x: -264.42, y: -1.0200195}
+        - {x: -263.42, y: -11.02002}
+        - {x: -262.42, y: -27.02002}
+        - {x: -260.42, y: -52.02002}
+        - {x: -257.42, y: -88.02002}
+        - {x: -254.42001, y: -106.02002}
+        - {x: -242.42001, y: -122.02002}
+        - {x: -238.42001, y: -124.02002}
+        - {x: -225.42001, y: -131.02002}
+        - {x: -131.42001, y: -131.02002}
+        - {x: -99.42001, y: -130.02002}
+        - {x: -76.42001, y: -129.02002}
+    - name: Prompts_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 445
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.380005, y: 53.799988}
+        - {x: -28.619995, y: 53.799988}
+        - {x: -36.619995, y: 52.799988}
+        - {x: -50.619995, y: 34.799988}
+        - {x: -50.619995, y: -43.200012}
+        - {x: -24.619995, y: -52.200012}
+        - {x: 33.380005, y: -52.200012}
+        - {x: 52.380005, y: -39.200012}
+        - {x: 52.380005, y: 27.799988}
+        - {x: 50.380005, y: 39.799988}
+    - name: Prompts_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 441
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.179993, y: 53.23999}
+        - {x: -24.820007, y: 53.23999}
+        - {x: -50.820007, y: 28.23999}
+        - {x: -50.820007, y: -31.76001}
+        - {x: -40.820007, y: -52.76001}
+        - {x: 31.179993, y: -52.76001}
+        - {x: 52.179993, y: -35.76001}
+        - {x: 52.179993, y: 29.23999}
+        - {x: 49.179993, y: 38.23999}
+    - name: Prompts_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 899
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -129}
+        - {x: 73, y: -130}
+        - {x: 100, y: -131}
+        - {x: 258, y: -131}
+        - {x: 271, y: -126}
+        - {x: 277, y: -121}
+        - {x: 284, y: -109}
+        - {x: 288, y: -74}
+        - {x: 288, y: 57}
+        - {x: 285, y: 64}
+        - {x: 281, y: 71}
+        - {x: 271, y: 80}
+        - {x: 254, y: 84}
+        - {x: 221, y: 86}
+        - {x: 148, y: 97}
+        - {x: 149, y: 100}
+        - {x: 150, y: 109}
+        - {x: 143, y: 118}
+        - {x: 116, y: 124}
+        - {x: 85, y: 129}
+        - {x: 64, y: 131}
+        - {x: -65, y: 131}
+        - {x: -91, y: 129}
+        - {x: -137, y: 121}
+        - {x: -153, y: 115}
+        - {x: -163, y: 104}
+        - {x: -161, y: 93}
+        - {x: -156, y: 88}
+        - {x: -234, y: 88}
+        - {x: -250, y: 86}
+        - {x: -261, y: 83}
+        - {x: -271, y: 77}
+        - {x: -277, y: 71}
+        - {x: -286, y: 57}
+        - {x: -288, y: 49}
+        - {x: -288, y: -75}
+        - {x: -287, y: -84}
+        - {x: -286, y: -97}
+        - {x: -284, y: -110}
+        - {x: -273, y: -125}
+        - {x: -266, y: -128}
+        - {x: -257, y: -131}
+        - {x: -114, y: -131}
+        - {x: -86, y: -130}
+        - {x: -85, y: -129}
+    - name: Prompts_4
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 257
+        width: 478
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.17999, y: 43.979996}
+        - {x: -105.82001, y: 43.979996}
+        - {x: -152.82, y: 30.979996}
+        - {x: -152.82, y: -14.020004}
+        - {x: -147.82, y: -31.020004}
+        - {x: -142.82, y: -43.020004}
+        - {x: 136.18, y: -43.020004}
+        - {x: 154.18, y: -3.0200043}
+        - {x: 154.18, y: 31.979996}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
